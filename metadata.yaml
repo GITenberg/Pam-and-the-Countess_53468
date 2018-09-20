@@ -1,5 +1,5 @@
 _repo: Pam-and-the-Countess_53468
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Browne, Gordon
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1932
     gutenberg_agent_id: '8569'
     url: http://www.gutenberg.org/2009/agents/8569
+covers:
+- cover_type: archival
+  image_path: 53468-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Cowper, E. E. (Edith Elise)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '40757'
     url: http://www.gutenberg.org/2009/agents/40757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53468#Pam-and-the-Countess
 gutenberg_issued: '2016-11-06'
 gutenberg_type: Text
 identifiers:
