@@ -1,0 +1,34 @@
+_repo: Pam-and-the-Countess_53468
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+creator:
+  author:
+    agent_name: Cowper, E. E. (Edith Elise)
+    alias: Cowper, Edith Elise
+    gutenberg_agent_id: '40757'
+    url: http://www.gutenberg.org/2009/agents/40757
+description: ''
+gutenberg_issued: '2016-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- GITenberg
+title: Pam and the Countess
+url: http://www.gutenberg.org/ebooks/53468
